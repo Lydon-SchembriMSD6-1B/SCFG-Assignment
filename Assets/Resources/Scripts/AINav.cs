@@ -173,6 +173,8 @@ public class AINav : MonoBehaviour
             yield return null;
         }
     }
+    //A* pathfinding pro implements this functionality using a specific feature. Explain what this feature is (You may write your answer as a comment in your code).
 
+    //This Pro feature is called Local Avoidance, this feature is based on Reciprocal Velocity Obstacles. It adjusts the output from context aware streering actions to avoid collision with nearby agents.
 
 }

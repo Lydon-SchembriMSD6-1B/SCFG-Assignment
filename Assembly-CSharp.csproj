@@ -55,9 +55,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Resources\Scripts\Buttons.cs" />
-     <Compile Include="Assets\Resources\Scripts\AINav.cs" />
+     <Compile Include="Assets\Resources\Scripts\GenAIRuntime.cs" />
+     <Compile Include="Assets\Resources\Scripts\GenObstacleRuntime.cs" />
      <Compile Include="Assets\Resources\Scripts\PosObj.cs" />
+     <Compile Include="Assets\Resources\Scripts\AINav.cs" />
+     <Compile Include="Assets\Resources\Scripts\Buttons.cs" />
+     <Compile Include="Assets\Resources\Scripts\KU4PatrolBehaviourScript.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/MSD-6.2A College/Soft Computing for Games/SCFG-Assignment1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

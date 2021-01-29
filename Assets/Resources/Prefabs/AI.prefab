@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  target: {fileID: 0}
+  target: {fileID: 3817878688816462139, guid: 48d172d3aee10d641955fd06d217b231, type: 3}
 --- !u!114 &4118550486948049040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -190,5 +190,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40036db472804a147b9131bb55bc8d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 5912774634701178060, guid: 48d172d3aee10d641955fd06d217b231, type: 3}
+  target: {fileID: 3817878688816462139, guid: 48d172d3aee10d641955fd06d217b231, type: 3}
   obstacleNodes: []
